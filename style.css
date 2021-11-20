@@ -6,6 +6,7 @@ body {
 p {
     background:url(img/PXL_20211112_170948783.jpg);
     background-position: center;
+    background-repeat: no-repeat;
     font-size: 12px;
     line-height: 16px;
     -webkit-background-clip: text;
