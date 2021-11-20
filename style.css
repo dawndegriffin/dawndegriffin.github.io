@@ -1,0 +1,13 @@
+body {
+    background: #101010;
+    text-align: justify;
+}
+
+p {
+    background:url(img/PXL_20211112_170948783.jpg);
+    background-position: center;
+    font-size: 12px;
+    line-height: 16px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255,255,0.1);
+}
